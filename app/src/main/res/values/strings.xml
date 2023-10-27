@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Camera X</string>
+
+    <!-- Permissions Dialogs -->
+    <string name="grant_permission">Grant permission</string>
+    <string name="ok">OK</string>
+    <string name="permission_required">Permission required</string>
+
+    <string name="empty_photos">There are no photos yet</string>
+    <!-- Toasts -->
+    <string name="video_capture_failed">Video capture failed</string>
+
+    <!-- Content Descriptions -->
+    <string name="switch_camera_content_description">Switch camera</string>
+    <string name="open_gallery_content_description">Open gallery</string>
+    <string name="take_photo_content_description">Take photo</string>
+    <string name="record_video_content_description">Record video</string>
+    <string name="flash_content_description">Flash</string>
+</resources>
