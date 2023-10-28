@@ -56,7 +56,7 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
 import androidx.core.content.ContextCompat
-import com.mahmoudhamdyae.camerx.R
+import com.mahmoudhamdyae.camerax.R
 import java.io.File
 import java.text.SimpleDateFormat
 import java.util.Locale

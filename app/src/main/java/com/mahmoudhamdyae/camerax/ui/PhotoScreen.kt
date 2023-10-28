@@ -42,7 +42,7 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.IntSize
 import androidx.compose.ui.unit.dp
-import com.mahmoudhamdyae.camerx.R
+import com.mahmoudhamdyae.camerax.R
 
 @Composable
 fun PhotoScreen(

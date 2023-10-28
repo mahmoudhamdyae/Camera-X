@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.mahmoudhamdyae.camerx"
+    namespace = "com.mahmoudhamdyae.camerax"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.mahmoudhamdyae.camerx"
+        applicationId = "com.mahmoudhamdyae.camerax"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

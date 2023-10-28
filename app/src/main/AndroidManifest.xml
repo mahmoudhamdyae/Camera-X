@@ -20,7 +20,7 @@
         android:theme="@style/Theme.CameraX"
         tools:targetApi="31">
         <activity
-            android:name="com.mahmoudhamdyae.camerax.MainActivity"
+            android:name=".MainActivity"
             android:exported="true"
             android:theme="@style/Theme.CameraX">
             <intent-filter>
